@@ -1,0 +1,6 @@
+@keyframes up {
+    to {
+        opacity: 1;
+        top: 0;
+    }
+}
